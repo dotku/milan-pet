@@ -159,7 +159,7 @@ function App() {
                 电话: 400-123-4567<br />
                 <span className="flex items-center mt-2">
                   <MessageCircle className="h-5 w-5 mr-2" />
-                  微信客服: Helen (wxid_mshnxf7rr89o22)
+                  微信客服: Helen (HELENLAN998)
                 </span>
               </p>
             </div>
